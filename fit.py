@@ -1,6 +1,6 @@
 import time
 
-print (str.center('WELCOME TO THE FITBOT ASSESSOR)
+print (str.center('WELCOME TO THE FITBOT ASSESSOR'))
 # project by Aditi
 
 print()
